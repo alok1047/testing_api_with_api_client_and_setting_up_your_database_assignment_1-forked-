@@ -8,5 +8,20 @@
     "body-parser": "^1.20.3",
     "express": "^4.18.2",
     "nodemon": "^3.1.7"
-  }
+  },
+  "version": "1.0.0",
+  "description": "You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_1-forked-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_1-forked-/issues"
+  },
+  "homepage": "https://github.com/alok1047/testing_api_with_api_client_and_setting_up_your_database_assignment_1-forked-#readme",
+  "devDependencies": {},
+  "keywords": []
 }
